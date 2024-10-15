@@ -1,12 +1,15 @@
-## Hi there 👋 Welcome to Rezep
+## Hi there 👋 Welcome to Herbert
 
-<!--
+Herbert heart da zuar. 
 
-**Here are some ideas to get you started:**
+### Team:
+* Fabian Baitura
+* Jonas Pamminger
+* Leon Leeb
+* Paul Nell
+* Felix Dorn-Fussenegger
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Short Desprition
+Herbert is the digital concierge service. He uses ChatGPT and Mistral AI to best answer users' questions. The backend runs on ASP.NET, we have Postgress as our database and our frontend uses Tree.js. We also have a Blazor based configuration tool that allows you to choose which AI is used to answer the questions. You can also enter hotel-specific questions in the tool, which the frontend then uses to provide the user with hotel-specific answers, such as the position of the nearest toilet.
+
+Herbert will enter a test phase in Q1 2025 in a hotel belonging to the Schwarzenbären Hotel Group. 
